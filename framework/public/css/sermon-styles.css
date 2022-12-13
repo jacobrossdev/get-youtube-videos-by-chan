@@ -1,0 +1,17 @@
+#sermons-more-grid {
+	padding: 100px;
+	background-color: #EFEFEF;
+}
+
+#sermons_headline {
+	text-align:center;
+	margin-bottom :100px;
+}
+.tg-grid-area-top2 {margin-bottom: 50px;}
+
+@media screen and (max-width: 768px) {
+	#sermons-more-grid {
+		padding: 30px 15px;
+
+	}
+}
